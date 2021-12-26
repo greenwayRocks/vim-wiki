@@ -29,7 +29,7 @@ Bob -> Alice : MD Previewer?
 Bob -> Jon : Want more?
 @enduml
 
-### More?
+### \_ More ??
 
 ![image](https://cdn.mos.cms.futurecdn.net/eqpya9fL2D3xMYQxPDwH4Z.jpg)
 
@@ -37,6 +37,8 @@ Bob -> Jon : Want more?
 
 <hr>
 
-**Visit:** [Google](https://www.google.com) [Youtube](https://www.youtube.com)
+**Visit:** [Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md)
+:: [Discovery](https://github.com/greenwayRocks/vim-wiki/blob/main/discovery.md)
+:: [ToDo](https://github.com/greenwayRocks/vim-wiki/blob/main/todo.md)
 
-[Explore](/var/vimwiki/explore.md)
+<hr>
