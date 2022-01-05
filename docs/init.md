@@ -1,6 +1,6 @@
-<h2 align="center"> ✨ ** What today?  **  ✨ </h2>
+<h2 align="center"> ✨ What today?  ✨ </h2>
 
-> Whatever your hand finds to do, do it with all your might ❤️
+> What to do is an idea. With love ❤️
 
 <hr>
 
@@ -15,7 +15,7 @@
 
     Any indented text is a highlighted block?
 
-![image_sample](https://cdn.mos.cms.futurecdn.net/eqpya9fL2D3xMYQxPDwH4Z.jpg)
+![sample_img](https://cdn.mos.cms.futurecdn.net/eqpya9fL2D3xMYQxPDwH4Z.jpg)
 
 <hr>
 
@@ -26,4 +26,4 @@
 
 <hr>
 
-#### Buy Me A Coffee ☕️
+#### Buy Me A Coffee @ NOW ☕️

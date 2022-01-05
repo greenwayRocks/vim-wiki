@@ -1,4 +1,4 @@
-<h2 align="center"> ✨ Index MD  ✨ </h2>
+<h2 align="center"> ✨ wiki indeX  ✨ </h2>
 
 > Whatever your hand finds to do, do it with all your might ❤️
 
@@ -9,14 +9,11 @@
 ```python
 from datetime import timedelta, date and more_
 
-Functioning from a center v/s functioning without a center.
-One is creative, the other is not.
 ```
 
 **Note** -- is this a `good note`?
 
     Any indented text is a highlighted block?
-    When you really understand, you don't put your hope in time. Time won't solve a thi
 
 ### _ Table _
 
@@ -25,17 +22,22 @@ One is creative, the other is not.
 | Satish  | Adhikari | Hello      | Bonsoir |
 | Sandesh | Adhikari | Bienvenido | Mouse   |
 
-
 ### \_ More ??
 
 ![image](https://cdn.mos.cms.futurecdn.net/eqpya9fL2D3xMYQxPDwH4Z.jpg)
 
-#### Buy Me A Coffee ☕️
-
 <hr>
 
-**Visit:** [Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md)
+**:: Visit **
+:: [Explore](https://github.com/greenwayRocks/vim-wiki/blob/main/explore.md)
 :: [Discovery](https://github.com/greenwayRocks/vim-wiki/blob/main/discovery.md)
 :: [ToDo](https://github.com/greenwayRocks/vim-wiki/blob/main/todo.md)
+:: [Today](https://github.com/greenwayRocks/vim-wiki/blob/main/jan/jan05.md)
+
+**:: Docs **
+:: [00](https://github.com/greenwayRocks/vim-wiki/blob/main/docs/00.md)
+:: [bash](https://github.com/greenwayRocks/vim-wiki/blob/main/docs/bash.md)
 
 <hr>
+
+#### Buy Me A Coffee @ jan05 ☕️

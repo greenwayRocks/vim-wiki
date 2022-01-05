@@ -1,21 +1,12 @@
-<h2 align="center"> ✨ ** What today?  **  ✨ </h2>
+<h2 align="center"> ✨ Linux Firewall  ✨ </h2>
 
-> Whatever your hand finds to do, do it with all your might ❤️
+> Netfilter and IPTables -- Firewall -- With love ❤️
 
 <hr>
 
 ### _ Introduction _
 
-```bash
-#!/bin/bash -
-# boiler bash code
-```
-
-**Note** -- is this a `good note`?
-
-    Any indented text is a highlighted block?
-
-![image_sample](https://cdn.mos.cms.futurecdn.net/eqpya9fL2D3xMYQxPDwH4Z.jpg)
+    Here goes firewall? Let's push and see to get started.
 
 <hr>
 
@@ -26,4 +17,4 @@
 
 <hr>
 
-#### Buy Me A Coffee ☕️
+#### Buy Me A Coffee @ jan05 ☕️
